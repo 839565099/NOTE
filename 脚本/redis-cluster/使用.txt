@@ -1,0 +1,5 @@
+1、chmod +x xx.sh
+2、进入脚本设置 :set ff=unix
+
+依次执行
+install deploy start cluster
