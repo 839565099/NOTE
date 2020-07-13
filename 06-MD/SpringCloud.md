@@ -2748,6 +2748,106 @@ Spring Cloud Bus配合Spring Cloud Config使用可以实现配置的动态刷新
 
 # 十五、SpringCloud Sleuth分布式请求链路追踪
 
+## 1、概述
+
+**现在微服务系统存在的问题：**
+
+![image-20200703093802924](SpringCloud.assets/image-20200703093802924.png)
+
+- **是什么**
+
+  Spring Cloud Sleuth提供了一套完整的服务跟踪的解决方案；Sleuth收集数据，Zipkin提供展示平台
+
+## 2、搭建链路监控
+
+- Zipkin 
+
+  利用docker安装zipkin
+
+  ```she l
+  docker run -d --restart always -p 9411:9411 --name zipkin openzipkin/zipkin 
+  ```
+
+  能访问：http://ip:9411/zipkin/
+
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
